@@ -1,0 +1,17 @@
+body {
+  background-color: hsl(284, 100%, 6%);
+  color: white;
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+}
+
+header {
+  font-size: 2rem;
+}
+
+.nav-bar-items {
+  flex-direction: row;
+  list-style: none;
+  text-decoration: none;
+}
